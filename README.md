@@ -40,7 +40,7 @@ Systems [[pdf]](https://dl.acm.org/doi/pdf/10.1145/3552326.3587442)
 ### State explosion problem
 
 
-Xiaosong Gu, Wei Cao, Yicong Zhu, Xuan Song, Yu Huang, Xiaoxing Ma. Compositional Model Checking of Consensus Protocols Specified in TLA+ via Interaction-Preserving Abstraction[[pdf]](https://arxiv.org/abs/2202.11385)
+Xiaosong Gu, Wei Cao, Yicong Zhu, Xuan Song, Yu Huang, Xiaoxing Ma. Compositional Model Checking of Consensus Protocols Specified in TLA+ via Interaction-Preserving Abstraction [[pdf]](https://arxiv.org/abs/2202.11385)
 
 Using compositional model to check Raft and avoid the state explosion problem.
 
@@ -64,3 +64,15 @@ Gabriel Haas, Michael Haubenschild, Viktor Leis [[pdf]](https://www.cidrdb.org/c
 ### MVCC
 
 Memory-Optimized Multi-Version Concurrency Control for Disk-Based Database Systems [[pdf]](https://www.vldb.org/pvldb/vol15/p2797-freitag.pdf)
+
+
+# System Tech
+
+## io_uring
+
+Efficient IO with io_uring [[pdf]](https://kernel.dk/io_uring.pdf)
+
+
+Rust io_uring wrapper, [tokio-uring](https://docs.rs/tokio-uring/latest/tokio_uring/)
+
+## Rust programming language
