@@ -47,3 +47,14 @@ Using compositional model to check Raft and avoid the state explosion problem.
 ## Distributed System
 
 ## Database
+
+### NVME
+
+What Modern NVMe Storage Can Do, And How To Exploit It: High-Performance I/O for High-Performance Storage Engines Gabriel Haas, Viktor Leis [pdf](https://www.vldb.org/pvldb/vol16/p2090-haas.pdf)
+
+Exploiting Directly-Attached NVMe Arrays in DBMS
+Gabriel Haas, Michael Haubenschild, Viktor Leis [pdf](https://www.cidrdb.org/cidr2020/papers/p16-haas-cidr20.pdf)
+
+### MVCC
+
+Memory-Optimized Multi-Version Concurrency Control for Disk-Based Database Systems [pdf](https://www.vldb.org/pvldb/vol15/p2797-freitag.pdf)
