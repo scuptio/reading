@@ -81,4 +81,4 @@ Rust io_uring wrapper, [tokio-uring](https://docs.rs/tokio-uring/latest/tokio_ur
 
 [Rust, The Book](https://doc.rust-lang.org/book/)
 
-[Rust, The Async Book] https://rust-lang.github.io/async-book/)
+[Rust, The Async Book](https://rust-lang.github.io/async-book/)
