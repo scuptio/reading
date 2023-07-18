@@ -76,3 +76,9 @@ Efficient IO with io_uring [[pdf]](https://kernel.dk/io_uring.pdf)
 Rust io_uring wrapper, [tokio-uring](https://docs.rs/tokio-uring/latest/tokio_uring/)
 
 ## Rust programming language
+
+[Rust](https://www.rust-lang.org/)
+
+[Rust, The Book](https://doc.rust-lang.org/book/)
+
+[Rust, The Async Book] https://rust-lang.github.io/async-book/)
