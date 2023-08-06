@@ -37,6 +37,8 @@ The seL4 verification uses formal proof in the theorem prover [Isabelle/HOL](htt
 Model Checking Guided Testing for Distributed
 Systems [[pdf]](https://dl.acm.org/doi/pdf/10.1145/3552326.3587442)
 
+Kayfabe: Model-based program testing with TLC - Star Dorminey [[video]](https://www.youtube.com/watch?v=lj31oIaYSj4)
+
 ### State explosion problem
 
 
