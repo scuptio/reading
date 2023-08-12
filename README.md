@@ -79,6 +79,8 @@ Rust io_uring wrapper, [tokio-uring](https://docs.rs/tokio-uring/latest/tokio_ur
 
 io_uring example, [io_uring-by-examplej](https://github.com/shuveb/io_uring-by-example)
 
+[awesome-iouring](https://github.com/espoal/awesome-iouring)
+
 ## Rust programming language
 
 [Rust](https://www.rust-lang.org/)
