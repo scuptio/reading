@@ -54,6 +54,9 @@ A. Methni, B. Ben Hedia, M. Lemerre, S. Haddad, K. Barkaoui. State Space Reducti
 
 Distributed Algorithms,  Nancy A. Lynch [[link]](https://dl.acm.org/doi/book/10.5555/2821576)
 
+## Testing
+Greybox Fuzzing of Distributed Systems[[pdf]](https://arxiv.org/pdf/2305.02601.pdf)
+
 ## Database
 
 ### NVME
