@@ -50,11 +50,11 @@ Using compositional model to check Raft and avoid the state explosion problem.
 A. Methni, B. Ben Hedia, M. Lemerre, S. Haddad, K. Barkaoui. State Space Reduction Strategies for Model Checking Concurrent C Programs [[pdf]](https://hal-cea.archives-ouvertes.fr/cea-01844041/file/MLBHB-vecos15.pdf)
 
 
-## Distributed System
+## Distributed System Theory
 
 Distributed Algorithms,  Nancy A. Lynch [[link]](https://dl.acm.org/doi/book/10.5555/2821576)
 
-## Testing
+## Distributed System Testing
 Greybox Fuzzing of Distributed Systems[[pdf]](https://arxiv.org/pdf/2305.02601.pdf)
 
 ## Database
