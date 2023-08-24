@@ -84,6 +84,8 @@ io_uring example, [io_uring-by-examplej](https://github.com/shuveb/io_uring-by-e
 
 [awesome-iouring](https://github.com/espoal/awesome-iouring)
 
+[PostgreSQL io_uring support Discussion](https://www.postgresql.org/message-id/CA%2Bq6zcU9oa96K8qL26qTGnygzLmBrX%2BZXwBs_HP2TR5h_wnBDg%40mail.gmail.com)
+
 ## Rust programming language
 
 [Rust](https://www.rust-lang.org/)
