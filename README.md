@@ -26,7 +26,7 @@ Andrey Kupriyanov, Igor Konnov. Model-based testing with TLA+ and Apalache [[pdf
 
 A. Jesse Jiryu Davis, Max Hirschhorn, Judah Schvimer. Extreme modelling in practice [[pdf]](https://dl.acm.org/doi/abs/10.14778/3397230.3397233)
 
-Model-based testing of MongoDB
+eXtreme Modelling in Practice [[pdf]](http://www.vldb.org/pvldb/vol13/p1346-davis.pdf)
 
 [The seL4 Microkernel](https://sel4.systems/)
 
@@ -36,6 +36,8 @@ The seL4 verification uses formal proof in the theorem prover [Isabelle/HOL](htt
 
 Model Checking Guided Testing for Distributed
 Systems [[pdf]](https://dl.acm.org/doi/pdf/10.1145/3552326.3587442)
+
+Using Lightweight Formal Methods to Validate a Key-Value Storage Node in Amazon S3 [[pdf]](https://dl.acm.org/doi/10.1145/3477132.3483540)
 
 Kayfabe: Model-based program testing with TLC - Star Dorminey [[video]](https://www.youtube.com/watch?v=lj31oIaYSj4)
 
