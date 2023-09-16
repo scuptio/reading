@@ -26,8 +26,6 @@ Andrey Kupriyanov, Igor Konnov. Model-based testing with TLA+ and Apalache [[pdf
 
 A. Jesse Jiryu Davis, Max Hirschhorn, Judah Schvimer. Extreme modelling in practice [[pdf]](https://dl.acm.org/doi/abs/10.14778/3397230.3397233)
 
-eXtreme Modelling in Practice [[pdf]](http://www.vldb.org/pvldb/vol13/p1346-davis.pdf)
-
 [The seL4 Microkernel](https://sel4.systems/)
 
 Sel4 is a high-assurance, high-performance operating system microkernel which uses formal verification.
