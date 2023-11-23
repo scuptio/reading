@@ -57,6 +57,8 @@ Distributed Algorithms,  Nancy A. Lynch [[link]](https://dl.acm.org/doi/book/10.
 ## Distributed System Testing
 Greybox Fuzzing of Distributed Systems[[pdf]](https://arxiv.org/pdf/2305.02601.pdf)
 
+Fuzzing Raft Testing(https://colin-scott.github.io/blog/2015/10/07/fuzzing-raft-for-fun-and-profit/)
+
 ## Database
 
 ### NVME
