@@ -4,6 +4,14 @@ Distributed system && Database reading list
 
 ## Formal method
 
+### Formally Verified Systems
+An Empirical Study on the Correctness of Formally Verified Distributed Systems [[pdf]](https://dl.acm.org/doi/pdf/10.1145/3064176.3064183)
+
+[The seL4 Microkernel](https://sel4.systems/)
+
+Sel4 is a high-assurance, high-performance operating system microkernel which uses formal verification.
+The seL4 verification uses formal proof in the theorem prover [Isabelle/HOL](https://isabelle.in.tum.de/)
+
 ### TLA+
 
 Lamport. Learning TLA+ [[link]](https://lamport.azurewebsites.net/tla/learning.html)
@@ -25,11 +33,6 @@ Andrey Kupriyanov, Igor Konnov. Model-based testing with TLA+ and Apalache [[pdf
 
 
 A. Jesse Jiryu Davis, Max Hirschhorn, Judah Schvimer. Extreme modelling in practice [[pdf]](https://dl.acm.org/doi/abs/10.14778/3397230.3397233)
-
-[The seL4 Microkernel](https://sel4.systems/)
-
-Sel4 is a high-assurance, high-performance operating system microkernel which uses formal verification.
-The seL4 verification uses formal proof in the theorem prover [Isabelle/HOL](https://isabelle.in.tum.de/)
 
 
 Model Checking Guided Testing for Distributed
