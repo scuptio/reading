@@ -21,7 +21,6 @@ Hillel. Learn TLA+ [[link]](https://learntla.com/)
 
 Hillel Wayne. Practical TLA+ Planning Driven Development [[link]](https://link.springer.com/book/10.1007/978-1-4842-3829-5)
 
-Verdi: a framework for implementing and formally verifying distributed systems[[link]](https://dl.acm.org/doi/10.1145/2737924.2737958)
 
 ### Industrial use
 
