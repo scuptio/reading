@@ -12,6 +12,9 @@ An Empirical Study on the Correctness of Formally Verified Distributed Systems [
 Sel4 is a high-assurance, high-performance operating system microkernel which uses formal verification.
 The seL4 verification uses formal proof in the theorem prover [Isabelle/HOL](https://isabelle.in.tum.de/)
 
+Chapar: certified causally consistent distributed key-value stores [[link]](https://dl.acm.org/doi/pdf/10.1145/3064176.3064183)
+
+
 ### TLA+
 
 Lamport. Learning TLA+ [[link]](https://lamport.azurewebsites.net/tla/learning.html)
