@@ -86,7 +86,6 @@ Memory-Optimized Multi-Version Concurrency Control for Disk-Based Database Syste
 
 Efficient IO with io_uring [[pdf]](https://kernel.dk/io_uring.pdf)
 
-
 Rust io_uring wrapper, [tokio-uring](https://docs.rs/tokio-uring/latest/tokio_uring/)
 
 io_uring example, [io_uring-by-examplej](https://github.com/shuveb/io_uring-by-example)
@@ -94,6 +93,8 @@ io_uring example, [io_uring-by-examplej](https://github.com/shuveb/io_uring-by-e
 [awesome-iouring](https://github.com/espoal/awesome-iouring)
 
 [PostgreSQL io_uring support Discussion](https://www.postgresql.org/message-id/CA%2Bq6zcU9oa96K8qL26qTGnygzLmBrX%2BZXwBs_HP2TR5h_wnBDg%40mail.gmail.com)
+
+[What Are You Waiting For? ] (https://db.in.tum.de/~fent/papers/coroutines.pdf?lang=en)
 
 ## Rust programming language
 
