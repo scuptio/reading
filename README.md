@@ -79,8 +79,7 @@ Gabriel Haas, Michael Haubenschild, Viktor Leis [[pdf]](https://www.cidrdb.org/c
 
 Memory-Optimized Multi-Version Concurrency Control for Disk-Based Database Systems [[pdf]](https://www.vldb.org/pvldb/vol15/p2797-freitag.pdf)
 
-####
-Coroutine + Aschronous IO
+#### Coroutine + Aschronous IO
 
 The Art of Latency Hiding in Modern Database Engines [[pdf]](https://www.vldb.org/pvldb/vol17/p577-huang.pdf)
 
